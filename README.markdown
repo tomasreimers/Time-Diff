@@ -1,5 +1,5 @@
 ## Purpose
-This is a sole php function which allows one to turn the difference inbetween two timestamps (this is espically useful when trying to display to a user the difference between the time somethign was posted and now).
+This is a sole php function which allows one to turn the difference inbetween two timestamps into a human readable string (this is espically useful when trying to display to a user the difference between the time somethign was posted and now).
 
 ## Declaration
 `timeBetween($start_date, $end_date, $precision, $shortForm)`
